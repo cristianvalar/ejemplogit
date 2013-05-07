@@ -1,0 +1,18 @@
+body {
+	background: #ccc;
+	font-family: Tahoma;
+}
+
+p {
+	background: #fff;
+	padding: 1%;
+	width: 98%;
+}
+
+footer {
+	background: #08b;
+	color: #fff;
+	font-size: 1.2em;
+	padding: 1%;
+	text-align: center;
+}
