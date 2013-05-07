@@ -1,0 +1,6 @@
+# En este archivo se indica todo lo que no se hace siguimiento
+
+*.tmp
+images/
+docs/*.doc
+docs/!manual.doc
