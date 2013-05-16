@@ -1,6 +1,8 @@
 $(window).on('ready', function(){
 	$('#saludo').on('click', function(){
 		var nombre = $('input').val();
-		alert('hola k ase? '+nombre);
+
+		$('#parrafo').append("<h2>Ola k ase? "+ nombre +"</h2>");
+
 	});
 });
